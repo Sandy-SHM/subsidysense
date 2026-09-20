@@ -4,7 +4,7 @@ An AI-powered advisor that checks whether an EV, rooftop solar, or energy-effici
 
 **SDG Alignment:** Primary — SDG 7 (Affordable & Clean Energy). Secondary — SDG 12, SDG 13.
 
-🔗 **Live demo:** https://subsidysensebranchmainhjcv9u6mcnxvphixcggbqj.streamlit.app/
+🔗 **Live demo:** https://subsidysensebranchmain-hjcv9u6mcnxvphixcggbqj.streamlit.app/
 📂 **GitHub:** https://github.com/Sandy-SHM/subsidysense
 
 ---
